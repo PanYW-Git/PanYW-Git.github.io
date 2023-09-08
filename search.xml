@@ -46,11 +46,11 @@
       
         <tags>
             
-            <tag> 踩坑记录 </tag>
-            
             <tag> 多线程 </tag>
             
             <tag> mybatis-plus </tag>
+            
+            <tag> 踩坑记录 </tag>
             
         </tags>
       
@@ -75,9 +75,9 @@
       
         <tags>
             
-            <tag> Redis </tag>
-            
             <tag> 踩坑记录 </tag>
+            
+            <tag> Redis </tag>
             
         </tags>
       
