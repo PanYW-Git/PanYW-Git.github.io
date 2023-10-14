@@ -174,9 +174,9 @@
             
             <tag> 多线程 </tag>
             
-            <tag> mybatis-plus </tag>
-            
             <tag> 踩坑记录 </tag>
+            
+            <tag> mybatis-plus </tag>
             
         </tags>
       
@@ -201,9 +201,9 @@
       
         <tags>
             
-            <tag> 踩坑记录 </tag>
-            
             <tag> Redis </tag>
+            
+            <tag> 踩坑记录 </tag>
             
         </tags>
       
@@ -307,31 +307,6 @@
     
     
     <entry>
-      <title>常用idea快捷键（持续更新）</title>
-      <link href="/2023/04/10/%E5%B8%B8%E7%94%A8idea%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
-      <url>/2023/04/10/%E5%B8%B8%E7%94%A8idea%E5%BF%AB%E6%8D%B7%E9%94%AE/</url>
-      
-        <content type="html"><![CDATA[<h1 id="Ctrl"><a href="#Ctrl" class="headerlink" title="Ctrl"></a>Ctrl</h1><h1 id="Ctrl-Shift"><a href="#Ctrl-Shift" class="headerlink" title="Ctrl+Shift"></a>Ctrl+Shift</h1><table><thead><tr><th>u</th><th>更换选中单词的大小写</th></tr></thead><tbody><tr><td>b</td><td>跟踪选中接口的实现类</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table><h1 id="Ctrl-Alt"><a href="#Ctrl-Alt" class="headerlink" title="Ctrl+Alt"></a>Ctrl+Alt</h1><ul><li>m：选中代码自动变为方法<table><thead><tr><th>m</th><th>选中代码自动封装为方法</th></tr></thead><tbody><tr><td></td><td></td></tr></tbody></table></li></ul><p>|      |                        |<br>|      |                        |</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> idea </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 快捷键 - idea </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>常用DOS命令（持续更新）</title>
       <link href="/2023/04/10/%E5%B8%B8%E7%94%A8DOS%E5%91%BD%E4%BB%A4/"/>
       <url>/2023/04/10/%E5%B8%B8%E7%94%A8DOS%E5%91%BD%E4%BB%A4/</url>
@@ -349,6 +324,31 @@
         <tags>
             
             <tag> DOS命令 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>常用idea快捷键（持续更新）</title>
+      <link href="/2023/04/10/%E5%B8%B8%E7%94%A8idea%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+      <url>/2023/04/10/%E5%B8%B8%E7%94%A8idea%E5%BF%AB%E6%8D%B7%E9%94%AE/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Ctrl"><a href="#Ctrl" class="headerlink" title="Ctrl"></a>Ctrl</h1><h1 id="Ctrl-Shift"><a href="#Ctrl-Shift" class="headerlink" title="Ctrl+Shift"></a>Ctrl+Shift</h1><table><thead><tr><th>u</th><th>更换选中单词的大小写</th></tr></thead><tbody><tr><td>b</td><td>跟踪选中接口的实现类</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table><h1 id="Ctrl-Alt"><a href="#Ctrl-Alt" class="headerlink" title="Ctrl+Alt"></a>Ctrl+Alt</h1><ul><li>m：选中代码自动变为方法<table><thead><tr><th>m</th><th>选中代码自动封装为方法</th></tr></thead><tbody><tr><td></td><td></td></tr></tbody></table></li></ul><p>|      |                        |<br>|      |                        |</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> idea </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 快捷键 - idea </tag>
             
         </tags>
       
