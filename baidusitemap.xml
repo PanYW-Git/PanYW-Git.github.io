@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://panyw-git.gitee.io/2023/10/17/JMeter%E7%AE%80%E5%8D%95%E5%85%A5%E9%97%A8/</loc>
+    <lastmod>2023-10-17</lastmod>
+  </url>
+  <url>
     <loc>http://panyw-git.gitee.io/2023/10/16/Sentinel/</loc>
-    <lastmod>2023-10-16</lastmod>
+    <lastmod>2023-10-17</lastmod>
   </url>
   <url>
     <loc>http://panyw-git.gitee.io/2023/09/20/Elasticsearch/</loc>
